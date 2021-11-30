@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Carrière
 subtitle: et fonctions occupées
@@ -29,7 +29,7 @@ experience:
     location: Paris
     date_start: '2009-10-01'
     date_end: ''
-    description: Conduite de recherches individuelles et collectives ; contribution à la formation et à l'encadrement des étudiants et des doctorants. 
+    description: Conduite de recherches individuelles et collectives ; contribution à la formation et à l’encadrement des étudiants et des doctorants. 
         
   - title: Chargé de mission pour la politique numérique
     company: EHESS
@@ -38,7 +38,7 @@ experience:
     location: Paris
     date_start: '2020-01-01'
     date_end: ''
-    description: Participation à la définition de la politique scientifique de l'EHESS en matière de développement numérique.
+    description: Participation à la définition de la politique scientifique de l’EHESS en matière de développement numérique.
     
   - title: Chargé de mission pour la politique de recherche, membre du bureau élargi
     company: EHESS
@@ -47,7 +47,7 @@ experience:
     location: Paris
     date_start: '2018-01-01'
     date_end: '2019-12-31'
-    description: Au sein du bureau de la présidence "élargie", participation à la définition et à la mise en oeuvre de la politique scientifique de l'EHESS, sous la respondabilité du vice-président en charge de la recherche, Romain Huret.
+    description: Au sein du bureau de la présidence « élargie », participation à la définition et à la mise en œuvre de la politique scientifique de l’EHESS, sous la responsabilité du vice-président en charge de la recherche, Romain Huret.
     
   - title: Membre du comité de rédaction
     company: Politix
@@ -65,7 +65,7 @@ experience:
     location:
     date_start: '2012-09-01'
     date_end: '2016-08-31'
-    description: Membre de la section 36 "Sociologie et sciences du droit" ; membre du bureau de la section. Évaluations des chercheurs et des structures. Membre des jurys d'admissibilité des concours de chercheurs entre 2013 et 2016.
+    description: Membre de la section 36 « Sociologie et sciences du droit » ; membre du bureau de la section. Évaluations des chercheurs et des structures. Membre des jurys d’admissibilité des concours de chercheurs entre 2013 et 2016.
   
   - title: Directeur adjoint et directeur
     company: LIER
@@ -74,19 +74,19 @@ experience:
     location: Paris
     date_start: '2012-06-01'
     date_end: '2016-09-01'
-    description: Directeur adjoint (2012-2014) puis directeur (2014-2016) du LIER, en un temps où il n'était pas encore une UMR, mais un centre de l'EHESS et une relativement petite équipe de recherche au sein de l'Institut Marcel Mauss, dirigé par Albert Ogien.
+    description: Directeur adjoint (2012-2014) puis directeur (2014-2016) du LIER, en un temps où il n’était pas encore une UMR, mais un centre de l’EHESS et une relativement petite équipe de recherche au sein de l’Institut Marcel Mauss, dirigé par Albert Ogien.
     
   - title: Ingénieur de recherche
-    company: Mines ParisTech - CSI
+    company: Mines ParisTech – CSI
     company_url: 'https://www.csi.minesparis.psl.eu/'
     company_logo: CSI
     location: Paris
     date_start: '2003-10-01'
     date_end: '2009-09-30'
-    description: Conduite de recherches individuelles et collectives ; enseignements dans le cycle ingénieur de l'École des mines de Paris ; contribution à la formation des doctorants.
+    description: Conduite de recherches individuelles et collectives ; enseignements dans le cycle ingénieur de l’École des mines de Paris ; contribution à la formation des doctorants.
     
-  - title: Attaché temporaire d'enseignement et de recherche (ATER)
-    company: Université "Lumière" Lyon II - département de science politique
+  - title: Attaché temporaire d’enseignement et de recherche (ATER)
+    company: Université « Lumière » Lyon II – département de science politique
     company_url: 'https://assp.univ-lyon2.fr/'
     company_logo: ULL
     location: Lyon
@@ -94,8 +94,8 @@ experience:
     date_end: '2003-08-31'
     description: enseignements en sociologie politique en premier et deuxième cycle.
     
-  - title: Attaché temporaire d'enseignement et de recherche (ATER)
-    company: Université de Poitiers - département de sociologie
+  - title: Attaché temporaire d’enseignement et de recherche (ATER)
+    company: Université de Poitiers – département de sociologie
     company_url: 'https://sha.univ-poitiers.fr/dpt-socio/'
     company_logo: UPoit
     location: Poitiers
@@ -103,8 +103,8 @@ experience:
     date_end: '2002-08-31'
     description: enseignements en sociologie en premier cycle.
 
-  - title: Élève-chercheur
-    company: Mines ParisTech - CSI
+  - title: Élève chercheur
+    company: Mines ParisTech – CSI
     company_url: 'https://www.csi.minesparis.psl.eu/'
     company_logo: CSI
     location: Paris

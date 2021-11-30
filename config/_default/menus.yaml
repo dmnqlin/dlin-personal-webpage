@@ -8,16 +8,16 @@ main:
 #    url: '#about'
 #    weight: 10
   - name: Publications
-    url: '#publications'
+    url: publication/
     weight: 10
   - name: Interventions
-    url: '#publications'
+    url: intervention/
     weight: 20
   - name: Séminaires
     url: courses/
     weight: 30
   - name: Projets
-    url: '#projects'
+    url: project/
     weight: 40
 #  - name: Blog
 #    url: '#posts'

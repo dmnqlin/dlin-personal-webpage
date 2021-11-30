@@ -68,7 +68,7 @@ main_menu:
 
 # Localization
 
-date_format: '2 janvier 2006'
+date_format: '2 Jan 2006'
 time_format: '23 h 14'
 address_format: fr-fr
 

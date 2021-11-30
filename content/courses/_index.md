@@ -1,12 +1,12 @@
 ---
-title: Courses
+title: Séminaires
 type: page
 
-view: 2
+view: 3
 
 header:
   caption: ""
   image: ""
 ---
 
-I teach the following courses:
+## 2021-2022
