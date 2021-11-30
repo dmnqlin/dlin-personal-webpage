@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: 'dlin_theme'
 day_night: true
-font: ''
-font_size: L
+font: 'dlin_font'
+font_size: M
 
 # SEO
 
@@ -20,40 +20,40 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: dominique.linhardt@ehess.fr
+phone: +33 7 67 81 91 77
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: EHESS – LIER-FYT – 10, rue Monsieur Le Prince
+  city: Paris
+#  region: CA
+  postcode: '75006'
+  country: France
+  country_code: FR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '48.8510642'
+  longitude: '2.3393833'
+directions: Entrer dans le bâtiment. Monter par l’escalier sur la gauche jusqu’au troisième étage. Prendre la porte à gauche sur le palier (sonner le cas échéant), puis aller immédiatement à droite jusqu’au bureau n° 301.
+# office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+#  - icon: mastodon
+#    icon_pack: fab
+#    name: Contactez-moi par message privé.
+#    link: 'https://framapiaf.org/@dlin'
+  - icon: telegram
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: https://t.me/dmnqLin
+    link: 'https://t.me/dmnqLin'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -68,9 +68,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '2 janvier 2006'
+time_format: '23 h 14'
+address_format: fr-fr
 
 # Site features
 
@@ -102,18 +102,18 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'Ce site est sous licence {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: janvier 2006
   citation_style: apa
 projects:
   post_view: 2
@@ -146,15 +146,15 @@ map:
   provider: mapnik
   api_key: ''
   zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+# marketing:
+#  google_analytics: ''
+#  google_tag_manager: ''
+#  google_site_verification: ''
+#  baidu_site_verification: ''
+#  baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true

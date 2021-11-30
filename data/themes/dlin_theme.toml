@@ -1,0 +1,22 @@
+# Theme metadata
+name = "dlin_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#468a1a"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#468a1a"
+menu_text_active = "#28471f"
+menu_title = "#28471f"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#BAC1B8"
+  link_hover = "#BAC1B8"

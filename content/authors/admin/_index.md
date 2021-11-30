@@ -6,35 +6,40 @@ title: Dominique Linhardt
 superuser: true
 
 # Role/position/tagline
-role: Chargé de recherche au CNRS
+role: Chargé de recherche en sociologie
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Laboratoire interdisciplinaire d'étude sur les réflexivités - Fonds Yan Thomas (UMR 8065, CNRS/EHESS)
+- name: Centre national de la recherche scientifique (CNRS)
+  url: https://www.cnrs.fr/
+- name: Laboratoire interdisciplinaire d’études sur les réflexivités – Fonds Yan Thomas (UMR 8065, CNRS/EHESS)
   url: https://lier-fyt.ehess.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- État, violence, justice
+- Guerre et terrorisme, droit pénal et antiterrorisme
+- Histoire de la pensée sociologique (en particulier dans la tradition allemande)
+- Sociologie de la connaissance
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: Doctorat de sociologie
+    institution: École des mines de Paris
+    year: 2004
+  - course: DEA de sciences sociales
+    institution: École des hautes études en sciences sociales et École normale supérieure
+    year: 1998
+  - course: Maîtrise de science politique
+    institution: Université Paris I Panthéon-Sorbonne
+    year: 1996
+  - course: Licence d'histoire
+    institution: Université Paris I Panthéon-Sorbonne
+    year: 1995
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -42,22 +47,30 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
-  display:
-    header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: "mailto:dominique.linhardt@ehess.fr"
+- icon: globe
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://lier-fyt.ehess.fr/membres/dominique-linhardt
+- icon: zotero
+  icon_pack: ai
+  link: https://www.zotero.org/dlin
+- icon: hal
+  icon_pack: ai
+  link: https://cv.archives-ouvertes.fr/dominique-linhardt
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2528-8592
+- icon: mastodon
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://framapiaf.org/@dlin
+  display:
+    header: true  
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
