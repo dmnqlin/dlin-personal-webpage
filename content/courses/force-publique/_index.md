@@ -3,6 +3,7 @@ title: 2021-2022 | Sociologie de la force publique
 linkTitle: Sociologie de l’ordre public
 summary: Le maintien de l’ordre et ses transformations sous l’œil sociologique.
 date: '2021-11-16'
+show_date: false
 type: book
 ---
 

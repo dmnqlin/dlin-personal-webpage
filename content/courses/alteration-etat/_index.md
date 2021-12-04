@@ -4,6 +4,7 @@ linkTitle: Sociologie de l’État
 summary: Une approche de la sociologie de l’État conduite dans les termes de la sociologie de la connaissance.
 date: '2021-11-09'
 type: book
+show_date: false
 ---
 
 Séminaire co-animé avec [Cédric Moreau de Bellaing](https://lier-fyt.ehess.fr/membres/cedric-moreau-de-bellaing)
