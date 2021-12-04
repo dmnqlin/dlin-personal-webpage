@@ -1,5 +1,5 @@
 ---
-title: Sociologie de la force publique
+title: 2021-2022 | Sociologie de la force publique
 linkTitle: Sociologie de l’ordre public
 summary: Le maintien de l’ordre et ses transformations sous l’œil sociologique.
 date: '2021-11-16'
@@ -28,7 +28,7 @@ Après avoir cherché à définir les contours de ce qu’il faut entendre par �
 
 Il s’agit d’un séminaire de l’EHESS et de l'ENS Paris, ouvert aux mastérants, aux doctorants et aux auditeurs libres. Une inscription préalable sur la plateforme [https://participations.ehess.fr](https://participations.ehess.fr) est indispensable. Pour accéder directement à la page d’inscription au séminaire, suivre ce lien : [https://participations.ehess.fr/demandes/__nouvelle__?seminaire=706](https://participations.ehess.fr/demandes/__nouvelle__?seminaire=706).
 
-Il se tient les premier et troisième mardi de chaque mois du 16 novembre 2021 au 21 juin 2022, 15 heures à 17 heures à l’ENS, campus Jourdan (48, boulevard Jourdan, 75014 Paris – métro : Porte d’Orléans).
+Le séminaire se tient les premier et troisième mardi de chaque mois du 16 novembre 2021 au 21 juin 2022, 15 heures à 17 heures à l’ENS, campus Jourdan (48, boulevard Jourdan, 75014 Paris – métro : Porte d’Orléans).
 
 ## Contact
 

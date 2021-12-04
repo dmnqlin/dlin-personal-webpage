@@ -10,21 +10,24 @@ main:
   - name: Publications
     url: publication/
     weight: 10
-  - name: Interventions
-    url: intervention/
-    weight: 20
+  - name: Traductions
+    url: translation/
+    weight: 20   
   - name: Séminaires
     url: courses/
     weight: 30
   - name: Projets
     url: project/
     weight: 40
-#  - name: Blog
-#    url: '#posts'
-#    weight: 50
 #  - name: Talks
 #    url: '#talks'
 #    weight: 50
+  - name: À-côtés
+    url: intervention/
+    weight: 60
+#  - name: Blog
+#    url: '#posts'
+#    weight: 70    
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 80

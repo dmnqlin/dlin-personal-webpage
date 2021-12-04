@@ -1,5 +1,5 @@
 ---
-title: À-côtés
+title: Traductions
 cms_exclude: true
 
 # View.
@@ -14,5 +14,3 @@ header:
   caption: ""
   image: ""
 ---
-
-_Textes de circonstance_

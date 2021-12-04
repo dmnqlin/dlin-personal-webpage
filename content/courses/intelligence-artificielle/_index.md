@@ -1,5 +1,5 @@
 ---
-title: Sciences sociales et intelligence artificielle
+title: 2021-2022 | Sciences sociales et intelligence artificielle
 linkTitle: Intelligence artificielle
 summary: Les sciences sociales ont-elles quelque chose à dire à propos de l'intelligence artificielle ?
 date: '2021-11-26'

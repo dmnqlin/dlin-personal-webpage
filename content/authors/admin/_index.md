@@ -6,7 +6,7 @@ title: Dominique Linhardt
 superuser: true
 
 # Role/position/tagline
-role: Chargé de recherche en sociologie
+role: Sociologue
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -60,7 +60,7 @@ experience:
     
   - title: Membre du Comité national de la recherche scientifique
     company: CoNRS
-    company-url: 'https://www.cnrs.fr/comitenational/accueil.html'
+    company_url: 'https://www.cnrs.fr/comitenational/accueil.html'
     company_logo: CoNRS
     location:
     date_start: '2012-09-01'

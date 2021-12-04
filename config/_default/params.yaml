@@ -113,7 +113,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: janvier 2006
+  date_format: Jan 2006
   citation_style: apa
 projects:
   post_view: 2
